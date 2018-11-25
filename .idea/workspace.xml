@@ -2,97 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="239c46cd-0777-4dea-8763-254adfb8112f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/Copy_List_With_Random_Pointer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/InsertionSortList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/Linked_list_cycle_ii.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/Reorder_list.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/SortList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Best_time_to_buy_and_sell_stock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Candy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Distinct_subsequences.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Evaluate_reverse_polish_notation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Full_sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Gas_station.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Longest_consecutive_sequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Max_points_on_a_line$Point.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Max_points_on_a_line.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Palindrome_partitioning.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Palindrome_partitioning_ii.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Pascals_triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Pascals_triangle_ii.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Restore_ip_addresses.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Single_number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Single_number_ii.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Surrounded_regions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Word_break.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Word_break_ii.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Word_ladder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/other/Word_ladder_ii.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/Binary_tree_maximum_path_sum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/Binary_tree_postorder_traversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/Minimum_depth_of_binary_tree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/Populating_next_right_pointers_in_each_node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/Sum_root_to_leaf_numbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/util/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/util/RandomListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/util/TreeLinkNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/util/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/Copy_List_With_Random_Pointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/InsertionSortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/Linked_list_cycle_ii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/Reorder_list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/SortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Best_time_to_buy_and_sell_stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Distinct_subsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Evaluate_reverse_polish_notation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Full_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Gas_station.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Interleaving_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Longest_consecutive_sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Max_points_on_a_line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Palindrome_partitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Palindrome_partitioning_ii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Pascals_triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Pascals_triangle_ii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Restore_ip_addresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Single_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Single_number_ii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Surrounded_regions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Word_break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Word_break_ii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Word_ladder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Word_ladder_ii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Binary_tree_level_order_traversal_ii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Binary_tree_maximum_path_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Binary_tree_postorder_traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Binary_tree_zigzag_level_order_traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Construct_binary_tree_from_inorder_and_postorder_traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Construct_binary_tree_from_preorder_and_inorder_traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Convert_sorted_array_to_binary_search_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Maximum_depth_of_binary_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Minimum_depth_of_binary_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Path_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Populating_next_right_pointers_in_each_node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Recover_binary_search_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Same_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Sum_root_to_leaf_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Symmetric_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/RandomListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/TreeLinkNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/Partition_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Decode_ways.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Gray_code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/LargestRectangleinHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Maximal_rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Search_in_rotated_sorted_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Word_search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/other/Distinct_subsequences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/other/Distinct_subsequences.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,11 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Interleaving_string.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/other/Interleaving_string.java">
+      <file leaf-file-name="Word_search.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/Word_search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="357">
+              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Search_in_rotated_sorted_array.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/other/Search_in_rotated_sorted_array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -128,11 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/util/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/list/SortList.java" />
-        <option value="$PROJECT_DIR$/src/list/InsertionSortList.java" />
-        <option value="$PROJECT_DIR$/src/util/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/tree/Minimum_depth_of_binary_tree.java" />
         <option value="$PROJECT_DIR$/src/Evaluate_reverse_polish_notation.java" />
         <option value="$PROJECT_DIR$/src/other/Evaluate_reverse_polish_notation.java" />
@@ -177,6 +99,13 @@
         <option value="$PROJECT_DIR$/src/tree/Symmetric_tree.java" />
         <option value="$PROJECT_DIR$/src/tree/Recover_binary_search_tree.java" />
         <option value="$PROJECT_DIR$/src/other/Interleaving_string.java" />
+        <option value="$PROJECT_DIR$/src/other/Decode_ways.java" />
+        <option value="$PROJECT_DIR$/src/other/Gray_code.java" />
+        <option value="$PROJECT_DIR$/src/list/Partition_list.java" />
+        <option value="$PROJECT_DIR$/src/other/Maximal_rectangle.java" />
+        <option value="$PROJECT_DIR$/src/other/LargestRectangleinHistogram.java" />
+        <option value="$PROJECT_DIR$/src/other/Word_search.java" />
+        <option value="$PROJECT_DIR$/src/other/Search_in_rotated_sorted_array.java" />
       </list>
     </option>
   </component>
@@ -193,7 +122,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,11 +134,18 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,18 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Distinct_subsequences">
-    <configuration name="Best_time_to_buy_and_sell_stock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.Best_time_to_buy_and_sell_stock" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Maximal_rectangle">
     <configuration name="Distinct_subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.Distinct_subsequences" />
       <module name="leetcode" />
@@ -256,8 +180,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Restore_ip_addresses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.Restore_ip_addresses" />
+    <configuration name="Gray_code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.Gray_code" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -267,8 +191,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.Test" />
+    <configuration name="LargestRectangleinHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.LargestRectangleinHistogram" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -278,13 +202,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Word_ladder_ii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.Word_ladder_ii" />
+    <configuration name="Maximal_rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.Maximal_rectangle" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Partition_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Partition_list" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,19 +266,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Word_ladder_ii" />
-      <item itemvalue="Application.Best_time_to_buy_and_sell_stock" />
-      <item itemvalue="Application.Restore_ip_addresses" />
       <item itemvalue="Application.Distinct_subsequences" />
+      <item itemvalue="Application.Gray_code" />
+      <item itemvalue="Application.Partition_list" />
+      <item itemvalue="Application.LargestRectangleinHistogram" />
+      <item itemvalue="Application.Maximal_rectangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maximal_rectangle" />
+        <item itemvalue="Application.LargestRectangleinHistogram" />
+        <item itemvalue="Application.Partition_list" />
+        <item itemvalue="Application.Gray_code" />
         <item itemvalue="Application.Distinct_subsequences" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Restore_ip_addresses" />
-        <item itemvalue="Application.Best_time_to_buy_and_sell_stock" />
-        <item itemvalue="Application.Word_ladder_ii" />
       </list>
     </recent_temporary>
   </component>
@@ -371,6 +306,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
@@ -379,74 +315,31 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46735394" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3556701" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3298969" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30152673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26183206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.6272085" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6271478" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32646048" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32646048" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/list/SortList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list/InsertionSortList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list/SortList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree.java" />
-    <entry file="file://$PROJECT_DIR$/src/tree/Minimum_depth_of_binary_tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/Evaluate_reverse_polish_notation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/other/Max_points_on_a_line.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -750,8 +643,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/Interleaving_string.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="315">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/Decode_ways.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/Gray_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/list/Partition_list.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/Maximal_rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/LargestRectangleinHistogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/Word_search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/Search_in_rotated_sorted_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
         </state>
       </provider>
     </entry>
