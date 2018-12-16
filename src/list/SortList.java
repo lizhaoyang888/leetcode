@@ -2,6 +2,7 @@ package list;
 
 import util.ListNode;
 
+
 /**
  * 使用常数空间复杂度对O(n log n)时间内的链表进行排序。
  */
@@ -30,6 +31,7 @@ public class SortList {
         }
 
     }
+
     public ListNode sortList(ListNode head) {
         if (head == null || head.next == null){
             return head;
