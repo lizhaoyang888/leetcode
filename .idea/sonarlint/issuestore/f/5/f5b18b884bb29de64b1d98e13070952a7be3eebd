@@ -1,0 +1,5 @@
+
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(ÙÃèúıÿÿÿÿ8ô»¤.
+?squid:S1659"!Declare "pre" on a separate line.(ò½ˆŞ8¬¦ñ¦.
+nsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(÷µ¦Çùÿÿÿÿ8ªäğ¦.
