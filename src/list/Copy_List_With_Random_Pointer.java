@@ -18,6 +18,8 @@ public class Copy_List_With_Random_Pointer {
             p = copy.next;
         }
         //第二遍遍历 设置新节点的random
+        //为新节点的random指针赋值，若原节点random为NULL 不用管新节点(默认是NULL)
+        //若原节点random不为NULL，将新节点的random赋值为原节点random后面的那一个(因为后面这个是复制出来的)
         p = head;
         while (p != null){
             if (p.random != null) {
