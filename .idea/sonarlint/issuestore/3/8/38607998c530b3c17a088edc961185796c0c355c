@@ -1,10 +1,10 @@
 
+nsquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷îÉûÿÿÿÿ
 gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÉÈ¡İùÿÿÿÿ
 ‡squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¶Àå÷
 squid:S1319 "qThe type of the "result" object should be an interface such as "List" rather than the implementation "ArrayList".(÷îÉûÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ûá­÷ÿÿÿÿÿ
-nsquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷îÉûÿÿÿÿ
 esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è°â 
 hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‘™=
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûá­÷ÿÿÿÿÿ
 Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(İÖ£—øÿÿÿÿ

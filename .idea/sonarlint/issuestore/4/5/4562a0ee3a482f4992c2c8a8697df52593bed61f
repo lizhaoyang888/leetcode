@@ -1,11 +1,12 @@
 
-@squid:S2140")Use "java.util.Random.nextInt()" instead.(°‚Çœ
-=squid:S1659@"!Declare "cur" on a separate line.(ÜÕÍßøÿÿÿÿ
-T
-squid:S106 "9Replace this use of System.out or System.err by a logger.(ğô Öıÿÿÿÿ
-O
-squid:S106""9Replace this use of System.out or System.err by a logger.(êóÓ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÎ«ä
->squid:S1659@""Declare "cur2" on a separate line.(ÜÕÍßøÿÿÿÿ
->squid:S16596""Declare "fast" on a separate line.(ş“•åÿÿÿÿÿ
+D
+java:S16596""Declare "fast" on a separate line.(ş“•åÿÿÿÿÿ8º£¹™.
+D
+java:S1659@""Declare "cur2" on a separate line.(ÜÕÍßøÿÿÿÿ8º£¹™.
+C
+java:S1659@"!Declare "cur" on a separate line.(ÜÕÍßøÿÿÿÿ8º£¹™.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÎ«ä8º£¹™.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(êóÓ8º£¹™.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ğô Öıÿÿÿÿ8º£¹™.
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(°‚Çœ8º£¹™.

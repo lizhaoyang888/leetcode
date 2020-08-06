@@ -1,0 +1,11 @@
+
+J
+java:S1125f"(Remove the literal "true" boolean value.(Ù­Ìùÿÿÿÿ8Œº£¹™.
+
+java:S1319="pThe type of the "lists" object should be an interface such as "List" rather than the implementation "ArrayList".(¼Àİ„8Œº£¹™.
+Q
+java:S1066y"/Merge this if statement with the enclosing one.(é‡¶÷øÿÿÿÿ8Œº£¹™.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Œº£¹™.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(õ€×8Œº£¹™.
+L
+java:S1066t"/Merge this if statement with the enclosing one.(ö¼Ò¬8Œº£¹™.
