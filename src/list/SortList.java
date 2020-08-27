@@ -5,13 +5,18 @@ import util.ListNode;
 
 /**
  * 使用常数空间复杂度对O(n log n)时间内的链表进行排序。
+ *
+ * 对应此题目，可以划分为三个小问题：
+ * 1）找到链表中点 （快慢指针思路，快指针一次走两步，慢指针一次走一步，快指针在链表末尾时，慢指针恰好在链表中点）；
+ * 2）写出merge函数，即如何合并链表。
+ * 3）写出mergesort函数，实现上述步骤。
  */
 public class SortList {
     public static void main(String[] args){
         ListNode listNode = new ListNode(0);
         ListNode next = listNode;
-        for (int i=0;i<10;i++){
-            int random = (int) (Math.random()*10);
+        for (int i=0;i<10000;i++){
+            int random = (int) (Math.random()*10000);
             ListNode node = new ListNode(random);
             next.next = node;
             next = next.next;
@@ -23,7 +28,7 @@ public class SortList {
         }
         SortList main = new SortList();
 
-        ListNode mylist = main.sortList(listNode);;
+        ListNode mylist = main.sortList(listNode);
         System.out.println("\n排序后");
         while (mylist != null){
             System.out.print(mylist.val+" ");
