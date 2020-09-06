@@ -22,13 +22,13 @@ public class InsertionSort {
 
     public static void insertSort(int[] a){
         for (int i=1;i<a.length;i++){
-            int cur = a[i];
-            int pre = i-1;
-            while (pre>=0 && cur < a[pre]){
-                a[pre+1] = a[pre];
-                pre--;
+            int temp = a[i];
+            int j = i;
+            while (j>0 && temp < a[j-1]){
+                a[j] = a[j-1];
+                j--;
             }
-            a[pre+1] = cur;
+            a[j] = temp;
         }
     }
 }
